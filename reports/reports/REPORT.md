@@ -1,6 +1,6 @@
 # Báo cáo Ngày 4 - Keypoint & Pose
 
-Họ tên: Hoàng Kim Thiện   Nhóm: Nhóm 2   Ngày: 16/09/2026
+Họ tên: Hoàng Kim Thiên   Nhóm: Nhóm 32   Ngày: 16/09/2026
 
 > Cách dùng: copy file này thành `reports/REPORT.md`. Điền bằng số liệu do công cụ sinh ra;
 > không tự ước lượng hoặc sửa số trong file JSON.
